@@ -1,0 +1,23 @@
+body{
+    background-color: #ffffff;
+}
+
+.card_login{
+    padding: 2rem;
+    max-width: 800px;
+    margin: 0 auto;
+    border-radius: 16px;
+    backdrop-filter: blur(10px);
+    background: rgba(0, 0, 0, 0.02);
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.05);
+}
+
+.card_tabela{
+    padding: 2rem;
+    max-width: 800px;
+    margin: 0 auto;
+    border-radius: 16px;
+    backdrop-filter: blur(10px);
+    background: rgba(0, 0, 0, 0.02);
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.05);
+}
