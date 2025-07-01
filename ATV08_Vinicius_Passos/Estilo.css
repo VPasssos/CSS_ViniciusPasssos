@@ -1,0 +1,39 @@
+html, body {
+    height: 100%;
+}
+
+.cabecalho{
+    background-color: yellow;
+    border: 2px solid black;
+    height: 30vh;
+    width: 100vw;
+    
+}
+
+.card_principal{
+    display: flex;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+}
+
+.links{
+    background-color: lightblue;
+    border: 2px solid black;
+    height: 55vh;
+    width: 30vw;
+}
+
+
+.conteudo{
+    background-color: lightcoral;
+    border: 2px solid black;
+    width: 100vw;
+}
+.rodape{
+    background-color: green;
+    border: 2px solid black;
+    height: 10vh;
+}
