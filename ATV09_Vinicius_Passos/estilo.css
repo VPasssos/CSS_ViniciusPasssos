@@ -1,0 +1,20 @@
+.titulo h1,h2{
+    text-align: center;
+}
+
+.titulo h1{
+    font-weight: bold;
+}
+
+.centro{
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+
+}
+.poema{
+    color: blue;
+    text-align: left;
+}
